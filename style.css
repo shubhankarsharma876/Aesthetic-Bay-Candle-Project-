@@ -1,0 +1,33 @@
+body{
+    padding: 0%;
+    border: 0%;
+    background-color: #C7BCA1;
+    background-image: radial-gradient(circle, whitesmoke,#c9c1af);
+}
+.heading{
+    margin-top: 2%;
+    position: sticky;
+    display: flex; 
+    text-shadow: 5px 5px 10px rgb(192, 116, 61);
+    
+}
+.title{
+    text-shadow: antiquewhite;
+    align-self: center;
+    text-size-adjust:auto;
+    text-align: center;
+    margin-left: 30%;
+    font-size: 300%;
+    font-family: 'Great Vibes', cursive;
+    
+}
+.mainImg{
+    width: 10%;
+    height: 10%;
+    border: 2px solid black;
+    border-radius: 80px;
+    display: block;
+  margin-left:1%;
+  align-self: baseline;
+  
+}
